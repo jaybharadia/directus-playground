@@ -1,0 +1,22 @@
+{
+  "name": "directus-playground",
+  "version": "1.0.0",
+  "description": "\"# directus-playground\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jaybharadia/directus-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaybharadia/directus-playground/issues"
+  },
+  "homepage": "https://github.com/jaybharadia/directus-playground#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
