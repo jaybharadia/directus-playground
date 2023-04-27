@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jaybharadia/directus-playground#readme",
   "dependencies": {
+    "directus-extension-currency-interface": "^1.1.1",
     "mysql": "^2.18.1"
   }
 }
