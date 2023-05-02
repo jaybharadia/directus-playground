@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jaybharadia/directus-playground#readme",
   "dependencies": {
+    "@resauce-dev/directus-image-scout": "^3.0.0",
     "mysql": "^2.18.1"
   }
 }
