@@ -4,6 +4,7 @@
   "description": "\"# directus-playground\"",
   "main": "index.js",
   "scripts": {
+    "start": "directus start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/jaybharadia/directus-playground#readme",
   "dependencies": {
+    "directus": "^9.23",
     "mysql": "^2.18.1"
   }
 }
